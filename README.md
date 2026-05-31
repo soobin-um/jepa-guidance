@@ -1,8 +1,9 @@
 # Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion (ICML 2026)
 
-Sol Park and [Soobin Um](https://soobin-um.github.io/)
+Sol Park and [Soobin Um](https://soobin-um.github.io/)† († Corresponding author)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.24631-b31b1b.svg)](https://arxiv.org/abs/2605.24631)
 
 This repository contains the official implementation of **"Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion"** (ICML 2026).
 
@@ -55,4 +56,11 @@ Results are saved to `metrics/<dirname>_jepa.csv`.
 
 ## Citation
 
-Coming soon.
+```bibtex
+@article{park2026beyond,
+  title={Beyond Generative Priors: Minority Sampling with JEPA-Guided Diffusion},
+  author={Park, Sol and Um, Soobin},
+  journal={arXiv preprint arXiv:2605.24631},
+  year={2026}
+}
+```
